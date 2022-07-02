@@ -1,5 +1,5 @@
 # Sales-Insights--Data-Analysis-and-Visualisation
-Sales Insights —AtliQ Hardware (Data Set)
+Sales Insights —AtliQ Technologies (Data Set)
 In this project I’ve simulated a business problem resolution to a hardware company in India.
 
 AtliQ Hardware
